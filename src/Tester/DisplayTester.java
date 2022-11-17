@@ -11,6 +11,7 @@ public class DisplayTester {
         if (originalImage.dataAddr() == 0) {
             System.out.println("Couldn't open the file " + filePath);
         } else {
+            HighGui.namedWindow("Original Image");
             HighGui.imshow("Original Image", originalImage);
             HighGui.waitKey();
         }
