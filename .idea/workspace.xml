@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5edfcd3b-10d8-4347-9b10-57df1abcf8bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tester/CaptureTester.java" afterDir="false" />
+    <list default="true" id="5edfcd3b-10d8-4347-9b10-57df1abcf8bd" name="Changes" comment="Add the capture tester">
+      <change afterPath="$PROJECT_DIR$/src/Components/StillImageWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SwingWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tester/DisplayTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester/DisplayTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +50,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CaptureTester">
-    <configuration name="CaptureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester.CaptureTester" />
+  <component name="RunManager" selected="Application.SwingWindows">
+    <configuration name="SwingWindows (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
       <module name="Webcam Biofeedback Game" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tester.*" />
+          <option name="PATTERN" value="Components.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester.DisplayTester" />
+    <configuration name="SwingWindows (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
       <module name="Webcam Biofeedback Game" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tester.*" />
+          <option name="PATTERN" value="Components.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,18 +77,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tester.LibraryTester" />
+    <configuration name="SwingWindows (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
       <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.FrameWindow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.FrameWindow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.FrameWindow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.FrameWindow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Components.SwingWindows" />
+      <module name="Webcam Biofeedback Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Components.FrameWindow" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CaptureTester" />
-        <item itemvalue="Application.DisplayTester" />
-        <item itemvalue="Application.LibraryTester" />
+        <item itemvalue="Application.SwingWindows (4)" />
+        <item itemvalue="Application.SwingWindows (3)" />
+        <item itemvalue="Application.SwingWindows (2)" />
+        <item itemvalue="Application.SwingWindows (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -105,8 +190,19 @@
       <workItem from="1667571994207" duration="622000" />
       <workItem from="1667572835557" duration="95000" />
       <workItem from="1667768771598" duration="2428000" />
-      <workItem from="1668719471879" duration="3046000" />
+      <workItem from="1668719471879" duration="3311000" />
+      <workItem from="1668776257056" duration="844000" />
+      <workItem from="1672070888352" duration="6213000" />
+      <workItem from="1672083985384" duration="602000" />
     </task>
+    <task id="LOCAL-00001" summary="Add the capture tester">
+      <created>1668723480911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668723480911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +218,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add the capture tester" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the capture tester" />
   </component>
 </project>
